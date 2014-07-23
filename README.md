@@ -6,7 +6,7 @@ Yii Framework là một framework mạnh dành cho các ứng dụng web 2.0 đ�
 
 Thành viên
 ---------
-<!--- Nguyễn Như Tuấn--> | Email: tuanquynh0508@gmail.com | Home: http://i-designer.net
+`Nguyễn Như Tuấn` | Email: tuanquynh0508@gmail.com | Home: http://i-designer.net
 
 
 Cập nhật
